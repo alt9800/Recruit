@@ -17,5 +17,6 @@ qiitaに投稿した最新の記事を取得していい感じにアーカイブ
 
 
 ## リンク
-[qiita](https://qiita.com/ebiflyyyyyyyy)
-(Note2021振り返り)[https://note.com/stnk/n/n00a2c05b55e1]
+- [qiita](https://qiita.com/ebiflyyyyyyyy)
+- [Note2021振り返り](https://note.com/stnk/n/n00a2c05b55e1)
+
